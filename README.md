@@ -36,9 +36,7 @@ A comprehensive repository for learning and practicing **Object-Oriented Program
 git clone https://github.com/your-username/OOP-Python.git
 ```
 
-```bash
-cd OOP-Python
-```
+
 
 ---
 
